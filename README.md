@@ -47,7 +47,7 @@
 
 - **Correo:** [bernardmartinez241@gmail.com](mailto:bernardmartinez241@gmail.com)  
 - **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/)  
-- **Portafolio:** [Moons](https://github.com/zTraxDev)  
+- **Portafolio:** [Moons](https://github.com/iMoonsDev)  
 
 ---
 
